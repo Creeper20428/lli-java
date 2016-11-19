@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/11/java-lli/src/libc/time
+END
+LocalTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/java-lli/src/libc/time/LocalTime.java
+END
+Clock.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/java-lli/src/libc/time/Clock.java
+END
+StrFTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/time/StrFTime.java
+END
+Time.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/11/java-lli/src/libc/time/Time.java
+END
+CTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/java-lli/src/libc/time/CTime.java
+END
+GMTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/java-lli/src/libc/time/GMTime.java
+END
+AscTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/java-lli/src/libc/time/AscTime.java
+END
+MkTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/java-lli/src/libc/time/MkTime.java
+END
+DiffTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/time/DiffTime.java
+END

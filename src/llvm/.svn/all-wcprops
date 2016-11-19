@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/13/java-lli/src/llvm
+END
+IPointer.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/java-lli/src/llvm/IPointer.java
+END
+LlvmException.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/java-lli/src/llvm/LlvmException.java
+END
+AbstractFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/java-lli/src/llvm/AbstractFunction.java
+END
+Inlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/java-lli/src/llvm/Inlet.java
+END
+Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/java-lli/src/llvm/Value.java
+END
+Outlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/java-lli/src/llvm/Outlet.java
+END
+MemoryAccessViolation.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/java-lli/src/llvm/MemoryAccessViolation.java
+END
+BadAlloc.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/java-lli/src/llvm/BadAlloc.java
+END
+IMemory.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/13/java-lli/src/llvm/IMemory.java
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/11/java-lli/src/libc/string
+END
+StrNCat.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/java-lli/src/libc/string/StrNCat.java
+END
+MemCmp.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/string/MemCmp.java
+END
+StrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/java-lli/src/libc/string/StrError.java
+END
+StrCpy.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/string/StrCpy.java
+END
+StrNCmp.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/java-lli/src/libc/string/StrNCmp.java
+END
+StrTok.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/string/StrTok.java
+END
+StrPBrk.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/java-lli/src/libc/string/StrPBrk.java
+END
+StrRChr.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/java-lli/src/libc/string/StrRChr.java
+END
+StrSpn.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/string/StrSpn.java
+END
+MemCpy.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/string/MemCpy.java
+END
+MemSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/string/MemSet.java
+END
+StrCSpn.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/java-lli/src/libc/string/StrCSpn.java
+END
+StrCat.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/string/StrCat.java
+END
+StrStr.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/string/StrStr.java
+END
+StrNCpy.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/java-lli/src/libc/string/StrNCpy.java
+END
+MemMove.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/java-lli/src/libc/string/MemMove.java
+END
+StrChr.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/string/StrChr.java
+END
+StrLen.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/string/StrLen.java
+END
+StrCmp.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/string/StrCmp.java
+END
+MemChr.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/string/MemChr.java
+END

@@ -1,0 +1,86 @@
+package defaultmemory;
+
+import java.util.HashMap;
+import java.util.Map;
+import llvm.BadAlloc;
+import llvm.IMemory;
+import llvm.IPointer;
+import llvm.MemoryAccessViolation;
+
+
+public final class DefaultMemory implements IMemory {
+
+	private DefaultMemoryPointer NULL;
+	private Map<Integer, Location> locations;
+	
+	public DefaultMemory() {
+		NULL = new DefaultMemoryPointer(this, 0, 0);
+		locations = new HashMap<Integer, Location>();
+	}
+	
+	@Override
+	public IPointer nullPointer() {
+		return NULL;
+	}
+
+	@Override
+	public IPointer long2pointer(long longValue) {
+		int index = (int)longValue;
+    	int location = (int) (longValue >>> 32);
+    	return new DefaultMemoryPointer(this, location, index);
+	}
+
+	@Override
+	public IPointer allocate(long size) throws BadAlloc {
+		if((0xffffffff & size) != size) {
+    		throw new BadAlloc();
+    	}
+		int size32 = (int) size;
+		
+		Location location = new Location(size32);
+		int key = location.hashCode();
+		if(locations.containsKey(key)) {
+			throw new BadAlloc();
+		}
+		
+		locations.put(key, location);
+		
+		return new DefaultMemoryPointer(this, key, 0);
+	}
+
+	void deallocate(int location) {
+		locations.remove(location);
+	}
+	
+	void store(int location, int offset, byte[] data) throws MemoryAccessViolation {
+		Location loc = locations.get(location);
+		if(loc == null) {
+			throw new MemoryAccessViolation();
+		}
+		
+		loc.setBytes(offset, data);
+	}
+	
+	byte[] load(int location, int offset, int size) throws MemoryAccessViolation {
+		Location loc = locations.get(location);
+		if(loc == null) {
+			throw new MemoryAccessViolation();
+		}
+		
+		return loc.getBytes(offset, size);
+	}
+	
+	int size(int location) {
+		Location loc = locations.get(location);
+		if(loc == null) {
+			return 0;
+		}
+		
+		return loc.getSize();
+	}
+	
+	@Override
+	public int pointerSize() {
+		return 8;
+	}
+}

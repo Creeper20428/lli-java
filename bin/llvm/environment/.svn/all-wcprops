@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/11/java-lli/src/llvm/environment
+END
+LlvmTypePrimitive.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/java-lli/src/llvm/environment/LlvmTypePrimitive.java
+END
+RegisterGlobal.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/java-lli/src/llvm/environment/RegisterGlobal.java
+END
+RegisterFake.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/java-lli/src/llvm/environment/RegisterFake.java
+END
+LlvmStackFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/java-lli/src/llvm/environment/LlvmStackFrame.java
+END
+LlvmTypeArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/java-lli/src/llvm/environment/LlvmTypeArray.java
+END
+LlvmType.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/java-lli/src/llvm/environment/LlvmType.java
+END
+LlvmInstructionPointer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/java-lli/src/llvm/environment/LlvmInstructionPointer.java
+END
+LlvmTypePointer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/java-lli/src/llvm/environment/LlvmTypePointer.java
+END
+LlvmFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11/java-lli/src/llvm/environment/LlvmFunction.java
+END
+Instruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/java-lli/src/llvm/environment/Instruction.java
+END
+RegisterArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/java-lli/src/llvm/environment/RegisterArgument.java
+END
+AbstractLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/java-lli/src/llvm/environment/AbstractLibrary.java
+END
+LlvmFunctionBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/java-lli/src/llvm/environment/LlvmFunctionBody.java
+END
+RegisterLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/java-lli/src/llvm/environment/RegisterLocal.java
+END
+LlvmEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/java-lli/src/llvm/environment/LlvmEnvironment.java
+END
+LlvmStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/java-lli/src/llvm/environment/LlvmStack.java
+END

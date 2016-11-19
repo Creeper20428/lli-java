@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/14/java-lli/src/libc
+END
+LConv.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/14/java-lli/src/libc/LConv.java
+END
+CFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/java-lli/src/libc/CFile.java
+END
+JmpBuf.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/java-lli/src/libc/JmpBuf.java
+END
+CMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/14/java-lli/src/libc/CMacro.java
+END
+CFileRandomAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/java-lli/src/libc/CFileRandomAccess.java
+END
+StructTM.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/6/java-lli/src/libc/StructTM.java
+END
+CFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/java-lli/src/libc/CFormatter.java
+END
+CEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14/java-lli/src/libc/CEnvironment.java
+END
+CLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/java-lli/src/libc/CLibrary.java
+END
+CFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/11/java-lli/src/libc/CFunction.java
+END
+CFunctionCaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/java-lli/src/libc/CFunctionCaller.java
+END
+CFileInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/java-lli/src/libc/CFileInputStream.java
+END
+CFileOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/java-lli/src/libc/CFileOutputStream.java
+END

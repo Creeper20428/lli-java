@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/java-lli/llvm_code_examples
+END
+hello2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/java-lli/llvm_code_examples/hello2.ll
+END
+hello.bc.ir
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/java-lli/llvm_code_examples/hello.bc.ir
+END
+hello
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/java-lli/llvm_code_examples/hello
+END
+hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/java-lli/llvm_code_examples/hello.c
+END
+hello.bc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/java-lli/llvm_code_examples/hello.bc
+END
+a.out
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/java-lli/llvm_code_examples/a.out
+END
+hello.bc.s
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/java-lli/llvm_code_examples/hello.bc.s
+END
+hello.bc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/java-lli/llvm_code_examples/hello.bc.c
+END
+hello.native
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/java-lli/llvm_code_examples/hello.native
+END
+hello.ll
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/java-lli/llvm_code_examples/hello.ll
+END
+hello.bc.il
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/java-lli/llvm_code_examples/hello.bc.il
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/java-lli/src/llvm/environment/internal/asmparser
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/java-lli/src/llvm/environment/internal/asmparser/Parser.java
+END
+TokenInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/java-lli/src/llvm/environment/internal/asmparser/TokenInfo.java
+END
+AsmParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/java-lli/src/llvm/environment/internal/asmparser/AsmParser.java
+END
+Lexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/java-lli/src/llvm/environment/internal/asmparser/Lexer.java
+END

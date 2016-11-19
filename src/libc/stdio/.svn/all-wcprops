@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/11/java-lli/src/libc/stdio
+END
+FGetPos.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/stdio/FGetPos.java
+END
+Rename.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/java-lli/src/libc/stdio/Rename.java
+END
+FOpen.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/java-lli/src/libc/stdio/FOpen.java
+END
+FPrintF.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/stdio/FPrintF.java
+END
+PError.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/java-lli/src/libc/stdio/PError.java
+END
+FEof.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/java-lli/src/libc/stdio/FEof.java
+END
+FRead.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/java-lli/src/libc/stdio/FRead.java
+END
+FSetPos.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/stdio/FSetPos.java
+END
+UngetC.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/java-lli/src/libc/stdio/UngetC.java
+END
+FGetC.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/java-lli/src/libc/stdio/FGetC.java
+END
+PutS.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/java-lli/src/libc/stdio/PutS.java
+END
+TmpNam.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/java-lli/src/libc/stdio/TmpNam.java
+END
+Remove.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/java-lli/src/libc/stdio/Remove.java
+END
+ClearErr.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/java-lli/src/libc/stdio/ClearErr.java
+END
+TmpFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/stdio/TmpFile.java
+END
+PrintF.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/java-lli/src/libc/stdio/PrintF.java
+END
+FTell.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/java-lli/src/libc/stdio/FTell.java
+END
+PutChar.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/stdio/PutChar.java
+END
+FGetS.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/java-lli/src/libc/stdio/FGetS.java
+END
+FClose.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/java-lli/src/libc/stdio/FClose.java
+END
+GetChar.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/stdio/GetChar.java
+END
+FPutC.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/java-lli/src/libc/stdio/FPutC.java
+END
+SPrintF.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/stdio/SPrintF.java
+END
+FFlush.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/java-lli/src/libc/stdio/FFlush.java
+END
+Rewind.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/java-lli/src/libc/stdio/Rewind.java
+END
+FSeek.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/java-lli/src/libc/stdio/FSeek.java
+END
+FReopen.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/stdio/FReopen.java
+END
+FError.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/java-lli/src/libc/stdio/FError.java
+END
+FWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/java-lli/src/libc/stdio/FWrite.java
+END
+FPutS.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/java-lli/src/libc/stdio/FPutS.java
+END
+GetS.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/java-lli/src/libc/stdio/GetS.java
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/11/java-lli/src/libc/stdlib
+END
+AToI.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/AToI.java
+END
+CAlloc.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/CAlloc.java
+END
+AtExit.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/AtExit.java
+END
+LDiv.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/LDiv.java
+END
+AToL.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/AToL.java
+END
+Abs.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/Abs.java
+END
+Abort.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/Abort.java
+END
+BSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/BSearch.java
+END
+MAlloc.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/MAlloc.java
+END
+SRand.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/SRand.java
+END
+QSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/QSort.java
+END
+Exit.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/Exit.java
+END
+StrToUL.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/StrToUL.java
+END
+SysCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/SysCommand.java
+END
+StrToD.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/StrToD.java
+END
+ReAlloc.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/ReAlloc.java
+END
+Free.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/Free.java
+END
+LAbs.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/LAbs.java
+END
+Div.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/Div.java
+END
+Rand.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/Rand.java
+END
+StrToL.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/StrToL.java
+END
+GetEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/GetEnv.java
+END
+AToF.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/java-lli/src/libc/stdlib/AToF.java
+END
